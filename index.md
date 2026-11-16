@@ -28,7 +28,7 @@ This portfolio will include my projects, code review, enhancement narratives, an
 
 As part of my CS-499 Capstone, I did a code review of my Android Inventory Management application, which was originally developed in CS-360 Mobile Architecture and Programming.
 
-In this review, I examine the app's existing functionality, find areas for improvement, and discuss my planned enhancements in Software Engineering and Design, Algorithms and Data Structures, and Databases.
+In this review, I look at the app's existing functionality, find areas for improvement, and discuss my planned enhancements in Software Engineering and Design, Algorithms and Data Structures, and Databases.
 
 <iframe
   width="100%"
