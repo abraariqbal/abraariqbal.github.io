@@ -42,4 +42,18 @@ In this review, I look at the app's existing functionality, find areas for impro
 
 ## Projects
 
-Projects and enhancements will be added throughout the semester.
+Enhancement One: Software Engineering and Design
+
+Artifact: Android Inventory Management App
+Original Course: CS-360 Mobile Architecture and Programming
+
+For my first CS-499 Capstone enhancement, I improved an existing Android Inventory Management app developed using Java, Android Studio, and SQLite. The goal of this enhancement was to improve the app’s software architecture, maintainability, and functionality.
+
+I implemented an inventory dashboard displaying total items, total quantity, low-stock items, and out-of-stock items. I also refactored the SMS notification functionality into a dedicated SmsNotifier class and introduced a SessionManager class to improve session handling and maintain warehouse account isolation.
+
+These improvements demonstrate my ability to apply software engineering principles, improve an existing codebase, and validate functionality through automated testing.
+
+Enhancement One Resources:
+
+⁠View Enhanced Source Code
+⁠View Enhancement Narrative (PDF)
