@@ -56,6 +56,6 @@ These improvements demonstrate my ability to apply software engineering principl
 
 **Enhancement One Resources:**
 
-- [Enhanced Source Code](https://github.com/abraariqbal/CS499Capstone/tree/main/SoftwareEngineeringAndDesign)
+- [Enhanced Source Code](https://github.com/abraariqbal/CS499Capstone/tree/main/SoftwareEngineeingAndDesign)
 
-- [Enhancement One Narrative (PDF)](https://github.com/abraariqbal/CS499Capstone/blob/main/SoftwareEngineeringAndDesign/SoftwareEngineeringAndDesignNarrative.pdf)
+- [Enhancement Narrative (PDF)](https://github.com/abraariqbal/CS499Capstone/blob/main/SoftwareEngineeringAndDesignNarrative.pdf)
